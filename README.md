@@ -9,7 +9,7 @@
 
 - 👨‍💻 Languages I primarily work on are **Python and C++**
 
-- 💬 Ask me about **Deep Learning, Machine Learning**
+- 💬 Ask me about **Deep Learning and Machine Learning**
 
 - 📫 How to reach me **rohan.abiswas@gmail.com**
 
