@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekbiswas12&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekbiswas12" /> </p>
 
-- 🔭 I’m currently working on **Object Detection using Faster R-CNN**
+- 🔭 I’m currently working on **Text Summarization**
 
-- 🌱 I’m currently learning **Computer Vision and Deep Learning**
+- 🌱 I’m currently learning **Computer Vision and NLP using Deep Learning**
 
 - 👨‍💻 Languages I primarily work on are **Python and C++**
 
