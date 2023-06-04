@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekbiswas12&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekbiswas12" /> </p>
 
-- 🔭 I’m currently working on **Text Summarization**
+- 🔭 I’m currently working on **Machine Translation**
 
 - 🌱 I’m currently learning **Computer Vision and NLP using Deep Learning**
 
