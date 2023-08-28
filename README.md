@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rohan.abiswas@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1km5VMtVZVq4yA9_I4HiHuzpuY0uUC-C_/view?usp=drive_link](https://drive.google.com/file/d/1km5VMtVZVq4yA9_I4HiHuzpuY0uUC-C_/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1km5VMtVZVq4yA9_I4HiHuzpuY0uUC-C_/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
