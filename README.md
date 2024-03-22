@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekbiswas12&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekbiswas12" /> </p>
 
-- 🔭 I’m currently working on **Automatic Speech Recognition**
+- 🔭 I’m currently working on **Drivable Area Detection**
 
 - 🌱 I’m currently learning **Computer Vision and Automatic Speech Recognition**
 
