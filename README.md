@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Drivable Area Detection**
 
-- 🌱 I’m currently learning **Computer Vision and Automatic Speech Recognition**
+- 🌱 I’m currently learning **Computer Vision and Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/AbhishekBiswas](https://www.datascienceportfol.io/AbhishekBiswas)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rohan.abiswas@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yagh0x7YqVoIZqlzdb4Se1AOvKHtUaKK/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_O0faH1u3P2Ul3q_3QNFwmgypa_IOHs7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
